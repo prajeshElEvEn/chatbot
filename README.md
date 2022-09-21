@@ -9,4 +9,4 @@ A simple chatbot written in python.
 
 ## Author
 
-[prajeshElEvEn](https://github.com/prajeshElEvEn)
+[@prajeshElEvEn](https://github.com/prajeshElEvEn)
