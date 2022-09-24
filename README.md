@@ -10,6 +10,7 @@ A simple chatbot written in python.
 
 ```bash
 git clone https://github.com/prajeshElEvEn/chatbot
+cd chatbot
 ```
 
 - Create a virtual environment
