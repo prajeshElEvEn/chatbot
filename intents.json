@@ -34,6 +34,20 @@
       ]
     },
     {
+      "tag": "gettoknow",
+      "patterns": [
+        "how are you?",
+        "how are you doing?",
+        "how are you doing today?"
+      ],
+      "responses": [
+        "I'm good. Thanks for asking!",
+        "I'm fine. Thanks for asking!",
+        "I'm doing great. Thanks for asking!",
+        "I'm doing good. How are you?"
+      ]
+    },
+    {
       "tag": "goodbye",
       "patterns": [
         "Bye",
