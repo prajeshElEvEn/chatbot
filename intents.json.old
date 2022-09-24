@@ -1,0 +1,64 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hey",
+        "Hey there",
+        "Hi",
+        "Hey there",
+        "Hello",
+        "Hello there",
+        "Greetings Mate",
+        "What is up?",
+        "What's good?"
+      ],
+      "responses": [
+        "Hi there, how can I help?",
+        "Hello, how can I help?",
+        "Greetings, how can I help?",
+        "Hey, how can I help?",
+        "Hey there, how can I help?",
+        "Hi",
+        "Hey",
+        "Hello",
+        "Hey there",
+        "Greetings Mate",
+        "I'm here"
+      ]
+    },
+    {
+      "tag": "gettoknow",
+      "patterns": [
+        "how are you?",
+        "how are you doing?",
+        "how are you doing today?"
+      ],
+      "responses": [
+        "I'm good. Thanks for asking!",
+        "I'm fine. Thanks for asking!",
+        "I'm doing great. Thanks for asking!",
+        "I'm doing good. How are you?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Bye",
+        "See you later",
+        "Goodbye",
+        "See you soon",
+        "later",
+        "See ya",
+        "Bye Bye"
+      ],
+      "responses": [
+        "Bye",
+        "See you later",
+        "Goodbye",
+        "See you soon",
+        "Bye Bye"
+      ]
+    }
+  ]
+}
