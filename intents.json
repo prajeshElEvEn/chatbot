@@ -19,7 +19,7 @@
         "Yaar",
         "Bhai"
       ],
-      "response": [
+      "responses": [
         "Hi there, how can I help?",
         "Hello, how can I help?",
         "Greetings, how can I help?",
@@ -49,7 +49,18 @@
         "Adios",
         "Tata"
       ],
-      "response": [""]
+      "responses": [
+        "Bye",
+        "See you later",
+        "Goodbye",
+        "See you soon",
+        "Bye Bye",
+        "Bbye",
+        "Cya",
+        "Ciao",
+        "Adios",
+        "Tata"
+      ]
     }
   ]
 }
