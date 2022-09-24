@@ -1,0 +1,55 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hey",
+        "Hey there",
+        "Hi",
+        "Hey there",
+        "Hello",
+        "Hello there",
+        "Greetings Mate",
+        "Sup?",
+        "Wassup?",
+        "What's good?",
+        "Ahem",
+        "Oye",
+        "Abey",
+        "Yaar",
+        "Bhai"
+      ],
+      "response": [
+        "Hi there, how can I help?",
+        "Hello, how can I help?",
+        "Greetings, how can I help?",
+        "Hey, how can I help?",
+        "Hey there, how can I help?",
+        "Hi",
+        "Hey",
+        "Hello",
+        "Hey there",
+        "Greetings Mate",
+        "I'm here"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Bye",
+        "See you later",
+        "Goodbye",
+        "See you soon",
+        "later",
+        "See ya",
+        "Bye Bye",
+        "Bbye",
+        "Cya",
+        "Ciao",
+        "Adios",
+        "Tata"
+      ],
+      "response": [""]
+    }
+  ]
+}
