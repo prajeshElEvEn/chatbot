@@ -50,22 +50,14 @@
         "See you soon",
         "later",
         "See ya",
-        "Bye Bye",
-        "Bbye",
-        "Cya",
-        "Ciao",
-        "Adios"
+        "Bye Bye"
       ],
       "responses": [
         "Bye",
         "See you later",
         "Goodbye",
         "See you soon",
-        "Bye Bye",
-        "Bbye",
-        "Cya",
-        "Ciao",
-        "Adios"
+        "Bye Bye"
       ]
     }
   ]
