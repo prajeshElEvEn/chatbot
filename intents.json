@@ -10,14 +10,8 @@
         "Hello",
         "Hello there",
         "Greetings Mate",
-        "Sup?",
-        "Wassup?",
-        "What's good?",
-        "Ahem",
-        "Oye",
-        "Abey",
-        "Yaar",
-        "Bhai"
+        "What is up?",
+        "What's good?"
       ],
       "responses": [
         "Hi there, how can I help?",
@@ -60,8 +54,7 @@
         "Bbye",
         "Cya",
         "Ciao",
-        "Adios",
-        "Tata"
+        "Adios"
       ],
       "responses": [
         "Bye",
@@ -72,8 +65,7 @@
         "Bbye",
         "Cya",
         "Ciao",
-        "Adios",
-        "Tata"
+        "Adios"
       ]
     }
   ]
