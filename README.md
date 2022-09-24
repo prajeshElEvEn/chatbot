@@ -4,6 +4,12 @@ A simple chatbot written in python.
 
 - Size on disk: `2.25GB`
 
+## Resources
+
+- [Python](https://www.python.org/)
+- [Tensorflow](https://pypi.org/project/tensorflow/)
+- [intents](https://www.kaggle.com/datasets/f04438fa5f17895a8576dd4e29a5dbbf2b0fec30a72e6b8d58484d8c5ca3056d)
+
 ## Installation
 
 - Clone the repository
